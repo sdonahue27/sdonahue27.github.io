@@ -1,0 +1,16 @@
+*{
+    background-color: blueviolet;
+}
+.img{
+    height: 50%;
+    border-radius: 5%;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+.pwebsite{
+    display: flex;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
